@@ -1,25 +1,32 @@
-## Salary Prediction - Machine Learning Web App [Python, Machine Learning]
+##Salary Prediction – Machine Learning Web App [Python, Machine Learning]
+Hello! This is my application called "Salary Prediction."
 
-Hello! My application named "Salary Prediction".
+##About This Project
+This is a Machine Learning web application built using Python and Streamlit.
+I used real-world data to train a machine learning model. After analyzing the data and building the model, I created a simple web app interface using Streamlit.
 
-## À propos de ce projet
-C'est une application Web Machine Learning en Python avec Streamlit. j'ai utilisé des données du monde réel pour créer un modèle d'apprentissage automatique. Analyser les données et construiser notre modèle, et par la suite j'ai construit l'application Web à l'aide de streamlit.
+##Installation
+To run this project on your local machine, follow these steps:
 
-## Installation
+Clone the repository using this command:
 
-Pour que le projet soit opérationnel sur votre ordinateur local, procédez comme suit :
+bash
+git clone https://github.com/Anubhav06tech/Employee--salary--prediction/edit/main/README.md
+Install Streamlit using pip:
 
-1. cloner avec l'url donnée en utilisant commande => git clone https://github.com/benjdiasaad/WebApp-ML-salaryprediction
-2. Exécutez **pip install streamlit**, pour installer streamlit
-3. Exécutez la commande **streamlit run app.py** dans votre invite de commande pour démarrer l'application
+bash
+pip install streamlit
+Run the app using this command:
 
-## Technologies utilisées
+bash
+streamlit run app.py
 
-* Python.
-* Les algorithmes de ML.
-* Jupyter Notebook.
-* Visual Studio Code (IDE).
-* Git.
+##Technologies Used
+*Python
+*Machine Learning algorithms
+*Jupyter Notebook
+*Visual Studio Code (IDE)
+*Git
 
 ## Screen Shots
 ![01 - home page](https://github.com/benjdiasaad/WebApp-ML-salaryprediction/blob/main/screenshots/1.png)
